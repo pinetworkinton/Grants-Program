@@ -9,10 +9,10 @@ grant-application: true
 
 **Contact Person**: Alireza Hajimohammadi(AR.H) (CTO)  
 **Email**: pinetworkinton@outlook.com  
-**Company/Legal Entity**: Pinet Network Inc. (Delaware, USA)  
+**Company/Legal Entity**: Pinet (Baku, Azerbaijan)  
 **Team Members**: 
-- Tyler Strom (CEO): MSc in AI-Based Energy Development; led Siemens Energy AI projects for grid optimization. LinkedIn: linkedin.com/in/tylerstrom-aienergy
-- AR.H (CTO): Smart contract specialist; deployed DeFi protocols at ConsenSys ($50M+ TVL). LinkedIn: linkedin.com/in/alvinkane-web3
+- Tyler Strom (CEO): MSc in AI-Based Energy Development; led Siemens Energy AI projects for grid optimization. 
+- AR.H (CTO): Smart contract specialist; deployed DeFi protocols at ConsenSys . 
 **Advisors**: 
 - Francisco Benedito (Founder, ClimateTrade): Sustainability scaling.
 - J. Christopher Giancarlo (Ex-CFTC Chairman): Regulatory guidance.
@@ -20,7 +20,7 @@ grant-application: true
 - Jay Kurahashi-Sofue (VP Marketing, Ava Labs): Ecosystem growth.
 **Website**: https://pinetworkinton.free.nf  
 **Twitter/X**: https://x.com/pinetworkinton  
-**GitHub**: https://github.com/pinetwork/pnte-contracts (Private; open-source post-audit)
+**GitHub**: https://github.com/pinetworkinton (Private; open-source post-audit)
 
 ## Previous Applications
 
@@ -43,7 +43,9 @@ The global energy market ($8.8T in 2024, projected $12T by 2030) faces inefficie
 **Stack**: Solidity/Rust smart contracts (ERC-20 PNTE token compatible with Polkadot via bridges); IoT oracles (Chainlink-like for real-time energy data); IPFS for storage; AI (TensorFlow) for demand forecasting.  
 **Architecture**: Multi-chain deployment (Polkadot parachain integration for cross-chain settlements); Escrow contracts for P2P trades (createShipment → approve → confirm → attest); Staking module (12-15% APR).  
 **Security**: Third-party audit planned (Certik); Multi-sig treasury.  
-**Demo**: Testnet video on Polygon: [لینک یوتیوب] (Successful execution of energy trading flow).  
+**Demo**: Testnet video on Polygon: 
+https://youtu.be/Px2K72O8RC4
+(Successful execution of energy trading flow).  
 **Tokenomics**: 1B PNTE total supply; 60% presale (600M, ongoing), 20% team (locked 24 months), 10% rewards/airdrop, 10% ecosystem. Utility: Payments, staking, governance.  
 **Open Source**: Yes, full codebase post-grant (GitHub repo with Polkadot-specific bridge code).
 
